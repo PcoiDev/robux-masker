@@ -16,7 +16,7 @@ Hide your Robux balance and transaction history for privacy.
 
 ### Method 1: Install from CRX file (Recommended)
 
-1. Download `robux-steather.crx` from the [Releases](../../releases) page
+1. Download `robux-masker.crx` from the [Releases](../../releases) page
 2. Open Chrome and navigate to `chrome://extensions/`
 3. Enable **Developer mode** (toggle in top-right corner)
 4. Drag and drop the `.crx` file into the extensions page
